@@ -3,6 +3,7 @@ Project Status
 🚧 This project is currently ongoing.
 
 Available Notebooks
+
 **1. RT_DETR.ipynb**
 
 This notebook demonstrates the core people detection pipeline. It includes:
